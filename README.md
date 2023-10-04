@@ -1,2 +1,2 @@
 # voiceR
-R package that simplifies and largely automates practical voice analytics for social science research. 
+voiceR is an R package that simplifies and largely automates practical voice analytics for social science research. This package offers an accessible and easy-to-use interface, including an interactive Shiny app, that simplifies the processing, extraction, analysis, and reporting of voice recording data in the behavioral and social sciences. The package includes batch processing capabilities to read and analyze multiple voice files in parallel, automates the extraction of key vocal features for further analysis, and automatically generates APA-formatted reports for typical between-group comparisons in experimental social science research.
